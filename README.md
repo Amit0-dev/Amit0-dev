@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR6dG4wMW1xcTEzZm5vOHNtOWw1OW81bGFsbzF3N2pzNmRjZTR4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)](https://www.linkedin.com/in/amitpal0/)
+
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate software developer</h3>
 
