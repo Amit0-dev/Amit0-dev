@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Nice to meet you</h3>
 
 <p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Amit0-dev" /> </p>
-
-
-# 💫 About Me:
-🔭 I’m currently working on a JavaScript project to store and list URLs without a database or server.<br><br>👯 I’m looking to collaborate on JavaScript and front-end development projects.<br><br>🌱 I’m currently learning advanced JavaScript concepts and best practices.<br><br>💬 Ask me about vanilla JavaScript, local storage, and front-end web development.<br><br>⚡ Fun fact: JavaScript was created in just 10 days!
-
 
 
 
@@ -20,16 +15,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Amit0-dev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amit0-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amit0-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Amit0-dev&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
